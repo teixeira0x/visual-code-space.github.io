@@ -28,7 +28,7 @@
     "classnames": "^2.5.1",
     "compressorjs": "^1.2.1",
     "dotenv": "^16.4.5",
-    "next": "^15.0.1",
+    "next": "15.0.5",
     "octokit": "^4.0.2",
     "postcss": "^8.4.47",
     "postcss-preset-env": "^10.0.8",
